@@ -44,7 +44,7 @@ const content = """<!DOCTYPE html>
         background-color: gray !important;
       }
       button.mdc-button--raised {
-        background-color: #0175c2 !important;
+        background-color: #bf4908 !important;
       }
       button.mdc-button--raised:hover {
         background-color: #01568f !important;
@@ -71,20 +71,20 @@ const content = """<!DOCTYPE html>
         background-color: #c3e7ff !important;
       }
       button.mdc-dialog__button .mdc-button__label {
-        color: #0175c2;
+        color: #bf4908;
       }
       .mdc-text-field--focused .mdc-notched-outline__leading,
       .mdc-text-field--focused .mdc-notched-outline__trailing {
-        border-color: #0175c2 !important;
+        border-color: #bf4908 !important;
       }
       .mdc-text-field--focused .mdc-floating-label--float-above {
-        color: #0175c2 !important;
+        color: #bf4908 !important;
       }
       .mdc-select--focused .mdc-floating-label--float-above {
-        color: #0175c2 !important;
+        color: #bf4908 !important;
       }
       .mdc-select--focused .mdc-line-ripple--active {
-        background-color: #0175c2 !important;
+        background-color: #bf4908 !important;
       }
       button.pub-button {
         font-size: 13px;
@@ -92,7 +92,7 @@ const content = """<!DOCTYPE html>
         padding: 12px 24px;
         font-weight: 500;
         color: #fff;
-        background: #0175c2;
+        background: #bf4908;
         border-radius: 2px;
         outline: none;
         box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
@@ -123,7 +123,7 @@ const content = """<!DOCTYPE html>
       }
       a {
         text-decoration: none;
-        color: #0175c2;
+        color: #bf4908;
         cursor: pointer;
         font-weight: 500;
         opacity: 1;
@@ -170,7 +170,7 @@ const content = """<!DOCTYPE html>
         color: #8d9399;
       }
       ._banner-bg a {
-        color: #38bffc;
+        color: #ff7427;
       }
       ._visuallyhidden {
         border: 0;
@@ -360,7 +360,7 @@ const content = """<!DOCTYPE html>
         text-transform: none;
       }
       .sub-nav > .link:hover {
-        color: #0175c2;
+        color: #bf4908;
       }
       .sub-nav > .command {
         display: inline-block;
@@ -542,7 +542,7 @@ const content = """<!DOCTYPE html>
       }
       .spinner-frame .spinner {
         border: 8px solid #f3f3f3;
-        border-top: 8px solid #0175c2;
+        border-top: 8px solid #bf4908;
         border-radius: 50%;
         width: 60px;
         height: 60px;
@@ -834,7 +834,7 @@ const content = """<!DOCTYPE html>
         font-weight: 700;
       }
       .score-box > .number.-solid {
-        background: #0175c2;
+        background: #bf4908;
       }
       .score-box > .number.-good {
         background: #00c4b3;
@@ -933,7 +933,7 @@ const content = """<!DOCTYPE html>
       }
       .list-filters > .filter.-active {
         color: #fff;
-        background: #38bffc;
+        background: #ff7427;
       }
       .package-count {
         font-size: 16px;
@@ -949,7 +949,7 @@ const content = """<!DOCTYPE html>
       .pagination > li {
         display: inline-block;
         text-transform: uppercase;
-        color: #0175c2;
+        color: #bf4908;
         background: #f3f3f3;
         font-size: 14px;
         border-radius: 3px;
@@ -962,7 +962,7 @@ const content = """<!DOCTYPE html>
       .pagination > li.-active {
         pointer-events: none;
         color: #fff;
-        background: #0175c2;
+        background: #bf4908;
       }
       .pagination > li > a {
         display: inline-block;
@@ -1267,7 +1267,7 @@ const content = """<!DOCTYPE html>
         height: 45px;
         border-top-right-radius: 3px;
         border-bottom-right-radius: 3px;
-        background-color: #38bffc;
+        background-color: #ff7427;
         background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABGdBTUEAALGPC/xhBQAAARdJREFUOBHNkz1uwkAQhTGkhCuELlQUiAtwilzHtU8BVLkHF4iokbJJkS41EiTS5nvL2FrQGMsdIz3N7ntvZn+8HgyyiDEuwBv4BifLmi8yW/sQ4xMowRl4Ib4Eo/YuKGYixT9QgSUYW9ZcvKJsbYSo42hFmVeeUbzp8vnHRNAdKCqvSc1JTy78NXeVEXWxiuWVcDORnlz4b6TLFFFfRzF2DUaiT5IrxqPnG0L+mDDzDBn3YuNDxjVDNdrZ7LVh/UGtv7sy2+3z1X7xz91GIhFLoOh6R+vWJtao62VrgW1aKsZP8rSrYf6vHSnYgw1IxyEHoAjgfrN7K6kYBKAI4DGbfbCzZ72j3lEUxRdFKxB6F3sF2okg7R/6f6gee6OuegAAAABJRU5ErkJggg==");
         background-repeat: no-repeat;
         background-position: 50% 50%;
