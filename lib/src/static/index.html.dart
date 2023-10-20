@@ -132,7 +132,7 @@ const content = """<!DOCTYPE html>
         opacity: 0.8;
       }
       main {
-        min-height: calc(100vh - 360px);
+        min-height: calc(100vh - 305px);
       }
       body.page-standalone main {
         max-width: 800px;
