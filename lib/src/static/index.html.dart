@@ -1697,7 +1697,7 @@ const content = """<!DOCTYPE html>
         border: 0;
       }
     </style>
-    <link rel="icon" type="image/png" href="https://pub.dev/favicon.ico" />
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/ARBURIUS/unpub-2.0.0-docker/main/assets/favicon.ico" />
     <script defer src="main.dart.js"></script>
   </head>
   <body>
