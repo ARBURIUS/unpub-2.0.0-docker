@@ -14239,7 +14239,7 @@ T.an(a0,a9,a9)
 b3.a(a0)
 a4.t(a0,a8)
 T.an(a0,"name","q")
-T.an(a0,"placeholder","Search Dart packages")
+T.an(a0,"placeholder","Поиск пакетов")
 a4.H(a0)
 m=O.yJ(a0)
 a4.r=m
@@ -14331,13 +14331,13 @@ s=o.a(T.x(q,p,"a"))
 r.t(s,"link")
 T.an(s,"href","https://github.com/bytedance/unpub")
 r.H(s)
-T.X(s,"Source code")
+T.X(s,"Исходный код")
 T.X(p," ")
 o=o.a(T.x(q,p,"a"))
 r.t(o,"link github_issue")
 T.an(o,"href","https://github.com/bytedance/unpub/issues/new")
 r.H(o)
-T.X(o,"Report an issue")
+T.X(o,"Сообщить о проблеме")
 r.a5(p)}}
 V.mo.prototype={
 U:function(){var s,r,q=this,p=new V.hn(E.qu(q,0,3)),o=\$.vG
@@ -15012,7 +15012,7 @@ n.t(r,"tooltip-base hoverable")
 q=t.Q
 p=q.a(T.x(m,r,"h2"))
 n.t(p,"center landing-page-title tooltip-dotted")
-T.X(p,"Top Dart packages")
+T.X(p,"ТОП пакетов")
 q=q.a(T.x(m,k,"ul"))
 n.t(q,"package-list")
 q=n.b=new V.aU(7,n,T.bx(q))
@@ -15025,7 +15025,7 @@ p=q.c
 q=q.d
 q=G.bW(t.G.a(p.S(C.f,q)),t.f.a(p.S(C.i,q)),null,n.r)
 n.d=new G.bf(q)
-T.X(n.r,"More Dart packages...")
+T.X(n.r,"Еще пакеты...")
 q=n.r
 p=n.d.a;(q&&C.h).ag(q,"click",n.a4(p.gaB(p),t.L,t.O))
 n.a5(l)},
